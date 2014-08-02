@@ -1,0 +1,29 @@
+--> undefined - 451
+--> gtrubetskoy - 167
+--> jgallacher - 101
+--> ake - 54
+--> pqf - 52
+--> ronald - 25
+--> sbekman - 25
+--> dpejesh - 23
+--> gbenson - 21
+--> mccreedy - 21
+--> patrikj - 19
+--> blanco - 15
+--> lookit - 10
+--> maczniak - 10
+--> cvs - 5
+--> kevlo - 2
+--> sbidoul - 1
+
+----------------------------------Nomes diferentes
+
+hiroyuki hanai - hiroaki kawai
+mark sutton - paul sutton
+david ziegler - david wheeler
+grisha trubetskoy - gregory trubetskoy
+
+
+
+63916
+63898 apos retirada dos e-mails acima

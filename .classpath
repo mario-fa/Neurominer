@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/mario.Think_Mario/workspace/lucene-3.0.0/lucene-spellchecker-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mario.Think_Mario/workspace/lucene-3.0.0/lucene-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mario.Think_Mario/workspace/json-simple/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

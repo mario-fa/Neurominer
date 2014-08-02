@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: hypertree.demo.Demo
+
+Name: hypertree/
+Specification-Title: HyperTree Java Library 
+Specification-Version: 1.0
+Specification-Vendor: www.bouthier.net
+Implementation-Title: hypertree 
+Implementation-Version: 1.0
+Implementation-Vendor: hypertree.sourceforge.net
+

@@ -1,0 +1,26 @@
+sf | 1391 | Stefan Fritsch | Munich, Germany | 48.148221 | 11.574676
+humbedooh | 1197 | Daniel Gruno | Copenhagen, Denmark | 26.167995 | -80.208448
+covener | 894 | Eric Covener | Research Triangle Park, NC, USA | 35.902678 | -78.864182
+rjung | 691 | Rainer Jung | Bonn, Germany | 50.746449 | 7.100494
+fuankg | 632 | Guenter Knauf | Germany | 48.146847 |11.578109
+nilgun | 320 | Nilgun Belma Buguner | Alanya | 36.565358 | 32.00209
+takashi | 319 | Takashi Sato | Tokyo, Japan | 35.714183 | 139.689574
+noodl | 222 | Vincent Bray | Newcastle, UK | 54.97919 | -1.618531
+igalic | 206 | Igor Galic | Vienna | 48.209117 | 16.369232
+gryzor | 189 | Vincent Deffontaines | France | 48.857487 | 2.352051
+poirier | 168 | Dan Poirier | Research Triangle Park, NC, USA | 35.898785 | -78.863693
+grahamd | 167 | Graham Phillip Dumpleton | Sydney, Australia | -33.867529 | 151.20693
+brianm | 146 | Brian McCallister | Menlo Park, CA | 37.45333 | -122.181755
+jailletc36 | 118 | Christophe Jaillet | Reims, France | 49.258395 | 4.031929
+chrisd | 133 | Chris Darroch | British Columbia, Canada | 53.67068 | -127.667999
+gsmith | 69 | Gregg Lewis Smith | Dallas/Fort Worth Area | 32.724909 | -97.319856
+issac | 63 | Issac Goldstand | Tel Aviv, Israel | 32.066283 | 34.777855
+pctony | 62 | Tony Stevesnon | Cambridge, UK | 52.205082 | 0.122169
+rooneg | 54 | Garrett Rooney | Boston, MA | 42.358544 | -71.060654
+druggeri | 51 | Daniel Ruggeri | Greater St. Louis Area | 38.62599 | -90.204041
+noirin | 50 | Noirin Plunkett | Munich, Germany | 48.136308 | 11.576049
+tdonovan | 26 | Thomas J. Donovan | Boston Massachusetts | 42.358037 | -71.059624
+danielsh | 20 | Daniel Shahaf | Tel Aviv, Israel | 32.066283 | 34.778198
+fabien | 6 | Fabien Coelho | Paris, France | 48.855906 | 2.351707
+davi | 4 |  Davi Arnaut | Curitiba, PR, Brazil | -25.428393 | -49.273896
+rian | 3 | Rian Hunter | San Francisco, CA | 37.775057 | -122.419335
